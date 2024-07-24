@@ -1,0 +1,6 @@
+[submodule "codeEditor-backend"]
+	path = codeEditor-backend
+	url = https://github.com/karniib/codeEditor-backend.git
+[submodule "codeEditor-frontend"]
+	path = codeEditor-frontend
+	url = https://github.com/karniib/codeEditor-frontend.git
